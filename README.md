@@ -1,2 +1,2 @@
-# NLI_contradiction_deep_learning
-deep learning and application project MLDM - M2
+# NLI_contradiction_my_dear_watson
+https://www.kaggle.com/anasofiauzsoy/tutorial-notebook
